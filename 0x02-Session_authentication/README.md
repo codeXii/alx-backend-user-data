@@ -17,7 +17,7 @@ Simple HTTP API for playing with `User` model.
 - `views/users.py`: all users endpoints
 
 
-## Setup
+## Setup..
 
 ```
 $ pip3 install -r requirements.txt
